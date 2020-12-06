@@ -1,5 +1,1 @@
-# If you're reading this, CI is working bask in the green "Passing" icon below
-
-<h1 align="center">9614 Hyperion</h2>
-<p align="center">
-<a href="https://travis-ci.com/Alpheron/HyperionFTC"><img alt="Build Status" src="https://travis-ci.com/Alpheron/HyperionFTC.svg?branch=master"></a>
+This repository has been moved to https://github.com/Hyperion-9614/UltimateGoal
